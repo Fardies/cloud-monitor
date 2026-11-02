@@ -40,3 +40,6 @@ the Windows host's actual resource usage.
 - Persistent monitoring history
 - Automated tests and CI/CD
 - Cloud deployment
+
+## CI/CD
+This project uses GitHub Actions to automatically check Python syntax and build the Docker image.
